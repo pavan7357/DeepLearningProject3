@@ -1,8 +1,8 @@
-path: ../datasets/roboflow
+path: /kaggle/input/exp1dataset
 
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /kaggle/input/exp1dataset/train/images
+val: /kaggle/input/exp1dataset/valid/images
+test: /kaggle/input/exp1dataset/test/images
 
 nc: 1
 names: ['disease']
